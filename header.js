@@ -1,9 +1,8 @@
 let footer = document.getElementById('footer');
 
-
 footer.innerHTML = 
 ` 
-<footer class="text-center text-lg-start text-muted" style="text-align: left; background-color: #333333;">
+<footer class="text-center text-lg-start text-muted" style="text-align: left; background-color: #020324">
 <!-- Section: Social media -->
 
 <!-- Section: Social media -->
@@ -74,7 +73,7 @@ footer.innerHTML =
          <a  style="padding: 2px;"class="text-muted" href="https://www.facebook.com/dbitofficialfb" target="_blank"
                   ><i class="bi bi-facebook footer-icon"  style="color:	#3b5998"></i
                ></a>
-               <a style="padding: 2px;" class="text-muted" href="https://twitter.com/dbit_mumbai" target="_blank"
+               <a style="padding: 2px;" class="text-muted" href="https://www.youtube.com/@DBITEXTC" target="_blank"
                ><i class="bi bi-youtube footer-icon" style="color:	#FF0000"></i
              ></a>
              <a style="padding:2px" class="text-muted" href="https://www.instagram.com/dbitofficial_mumbai/" target="_blank"
